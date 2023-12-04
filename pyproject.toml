@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "upstage-ai-lab-ml-project"
+version = "0.1.0"
+description = ""
+authors = ["'streetlamplee' <jinintg@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
